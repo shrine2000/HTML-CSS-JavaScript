@@ -17,7 +17,7 @@ To set up this project locally, follow these steps:
 
 1.  Clone the repository to your local machine using the command:
     
-    shCopy code
+   
     
     `git clone https://github.com/<username>/github-profile-viewer.git` 
     
